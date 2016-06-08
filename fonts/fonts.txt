@@ -1,0 +1,26 @@
+@font-face {
+  font-family: 'LubalinGraphStd-Book';
+  src: url('/sites/all/themes/axis_bootstrap_subtheme/css/../fonts/LubalinGraphStd-Book.eot');
+  src: url('/sites/all/themes/axis_bootstrap_subtheme/css/../fonts/LubalinGraphStd-Book.eot?#iefix') format('embedded-opentype'), url('/sites/all/themes/axis_bootstrap_subtheme/css/../fonts/LubalinGraphStd-Book.woff') format('woff'), url('/sites/all/themes/axis_bootstrap_subtheme/css/../fonts/LubalinGraphStd-Book.ttf') format('truetype');
+}
+
+/* Heading styles */
+h2,
+h3,
+h4,
+h6,
+blockquote {
+  font-family: LubalinGraphStd-Book, "Open Sans", Arial, sans-serif;
+}
+h1,
+h5 {
+  font-family: LubalinGraphStd-Demi, "Open Sans", Arial, sans-serif;
+}
+h1 {
+  font-size: 48px;
+  line-height: 57px;
+}
+h1.page-header {
+  padding-top: 15px;
+  margin-left: -15px;
+}
